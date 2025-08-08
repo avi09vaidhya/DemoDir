@@ -1,2 +1,2 @@
 # DemoDir
-This is a demo dir
+This is a demo dir.
